@@ -1,6 +1,6 @@
 # One-GORD
 
-- NeurIPS2020: [One-sample Guided Object Representation Disassembling](), (released soon)
+- NeurIPS2020: [One-sample Guided Object Representation Disassembling](https://proceedings.neurips.cc//paper/2020/hash/f8e59f4b2fe7c5705bf878bbd494ccdf-Abstract.html)
 
 ![archi](images/architecture.png)
 
